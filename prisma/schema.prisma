@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("postgresql://username:Harsh@96@localhost:5432/yourdb")
+  url      = env("postgresql://postgres:Harsh@96@localhost:5432/workflows")
 }
 
 model Workflow {
