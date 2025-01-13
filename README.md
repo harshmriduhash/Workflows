@@ -33,7 +33,7 @@ This Full Stack SaaS application allows users to visually build, manage, and sch
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/BernieTv/Workflows-App.git
+    git clone https://github.com/harshmriduhash/Workflows
     cd Workflows-App
     ```
 
